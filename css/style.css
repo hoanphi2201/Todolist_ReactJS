@@ -1,0 +1,45 @@
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    vertical-align: middle;
+}
+
+div.row {
+	margin: 20px 0px;
+}
+
+span.label-medium {
+	padding: 7px 10px;
+    margin: -10px 9px 0px 5px;
+    font-size: 16px;
+    vertical-align: middle;
+}
+#inputDs{
+    margin-left: 20px;
+}
+.form-inline .btn{
+    margin-left: 18px;
+}
+.author {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 5px;
+    font-size: 16px;
+}
+.author a {
+    text-decoration: none;
+    color: #00264d;
+    line-height: 20px;
+}
+.panel-success{
+    position: relative;
+}
+#date{
+    position: absolute;
+    top: -10px;
+    left: 10px;
+
+}
+#datepicker{
+    margin-top: 1px;
+    width: 150px;
+}
